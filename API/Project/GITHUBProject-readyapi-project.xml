@@ -105,7 +105,7 @@
           <con:endpoint>https://api.github.com</con:endpoint>
           <con:request>{
 "title":"testKey",
-"key":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfOMghazCTGNGZbXhb3xJS8Ua6aht0FvqSgRbirkzwDESGxFxwSUIFPm3JzhGiHBlY0W8WKmMobs1mtDmKfRVQwpYs1vqorHHLU2V2wXyk7tS5ycFjR/UUMRJHRWL6+KI3r7+05x3qFE3sPqgKuKafqHa+7uEw+MSaTMMEUHV/6agi/MCNHWKqIHzPC7FFZttdfpiZpvUtXkp7HdK+WNd+SIPLd6cst5q+p9BnwtKXoyiGM9HbvPU29YwEE2HwGSDRxcqFpjuUcUD2QoT99bgS74CD1EviyrNeM0MXCFykKcTCapjkReJepKGo4slR+jvXJtNsE4KKe6QraZY67kVIzxb3r7EwQP+M1nI3JiajiWfhfZP8aL+EgIor69EwD/7hTDFUohfGQE+fpB/02W1rF8vw+5yWPUu33cfs2/KVk2VzBlKGTOqHHn6jbser5HfBjJgME9zc0CmwNM3bC8wlMB6bgL4CF1jsU6jpS6p39NubF63/z6j8n8PYtiyTlmE="
+"key":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfOMghazCTGNGZbXhb3xJS8Ua6aht0FvqSgRbirkzwDESGxFxwSUIFPm"
 
 }</con:request>
           <con:originalUri>https://api.github.com/user/keys</con:originalUri>
@@ -155,7 +155,7 @@
             <con:endpoint>https://api.github.com</con:endpoint>
             <con:request>{
 "title":"testKey",
-"key":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfOMghazCTGNGZbXhb3xJS8Ua6aht0FvqSgRbirkzwDESGxFxwSUIFPm3JzhGiHBlY0W8WKmMobs1mtDmKfRVQwpYs1vqorHHLU2V2wXyk7tS5ycFjR/UUMRJHRWL6+KI3r7+05x3qFE3sPqgKuKafqHa+7uEw+MSaTMMEUHV/6agi/MCNHWKqIHzPC7FFZttdfpiZpvUtXkp7HdK+WNd+SIPLd6cst5q+p9BnwtKXoyiGM9HbvPU29YwEE2HwGSDRxcqFpjuUcUD2QoT99bgS74CD1EviyrNeM0MXCFykKcTCapjkReJepKGo4slR+jvXJtNsE4KKe6QraZY67kVIzxb3r7EwQP+M1nI3JiajiWfhfZP8aL+EgIor69EwD/7hTDFUohfGQE+fpB/02W1rF8vw+5yWPUu33cfs2/KVk2VzBlKGTOqHHn6jbser5HfBjJgME9zc0CmwNM3bC8wlMB6bgL4CF1jsU6jpS6p39NubF63/z6j8n8PYtiyTlmE="
+"key":"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfOMghazCTGNGZbXhb3xJS8Ua6aht0FvqSgRbirkzwDESGxFxwSUIFPm"
 
 }</con:request>
             <con:originalUri>https://api.github.com/user/keys</con:originalUri>
