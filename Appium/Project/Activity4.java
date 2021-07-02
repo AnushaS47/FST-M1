@@ -104,10 +104,7 @@ firsttask.click();
   
  
  
- //Assert.assertEquals(driver.findElementByXPath("//android.view.View[4]/android.view.View[2]/android.view.View[2]/android.view.View[@text='Add tasks to list']").isDisplayed(), false);
- 
- 
-  //we will get error in assert condition because element is cleared from the list and it could not be located.
+// Assert.assertNull(firsttask);
   
   }
   @AfterClass
