@@ -232,7 +232,7 @@
     <con:oAuth2Profile>
       <con:name>GitHUBcred</con:name>
       <con:type>OAuth 2.0</con:type>
-      <con:accessToken>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</con:accessToken>
+      <con:accessToken></con:accessToken>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
       <con:accessTokenStartingStatus>ENTERED_MANUALLY</con:accessTokenStartingStatus>
       <con:oAuth2Flow>AUTHORIZATION_CODE_GRANT</con:oAuth2Flow>
@@ -283,7 +283,7 @@
     <con:oAuth20AuthEntry>
       <con:name>GitHUBcred</con:name>
       <con:type>OAuth 2.0</con:type>
-      <con:accessToken>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</con:accessToken>
+      <con:accessToken></con:accessToken>
       <con:accessTokenPosition>HEADER</con:accessTokenPosition>
       <con:accessTokenStartingStatus>ENTERED_MANUALLY</con:accessTokenStartingStatus>
       <con:oAuth2Flow>AUTHORIZATION_CODE_GRANT</con:oAuth2Flow>
